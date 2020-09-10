@@ -12,7 +12,7 @@
 /*:
  * @target MZ
  * @url https://raw.githubusercontent.com/munokura/MNKR-MZ-plugins/master/MNKR_SAN_MapGenerator.js
- * @plugindesc v1.2.0 自動的にランダムマップを生成します。
+ * @plugindesc v2.0.0 自動的にランダムマップを生成します。
  * @author ムノクラ 原作:サンシロ
  * 
  * @param WallHight
